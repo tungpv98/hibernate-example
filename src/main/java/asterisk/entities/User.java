@@ -1,4 +1,4 @@
-package asterisk;
+package asterisk.entities;
 
 import java.util.Date;
 
